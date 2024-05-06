@@ -1,5 +1,4 @@
-# Enumeration Techniques
-# Explore Google hacking and enumeration 
+# Experiment-03-Google Hacking and Enumeration 
 
 ## AIM:
 To use Google for gathering information and perform enumeration of targets
